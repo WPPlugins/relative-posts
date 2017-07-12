@@ -1,0 +1,14 @@
+.relative-post-thumbnail{
+	list-style: none;
+	padding: 0px;
+	margin: 0px; 
+}
+
+.relative-post-thumbnail img {
+	float:left;
+	margin: 4px 5px 0px 0px;
+}
+
+.clear{
+	clear: left;
+}
